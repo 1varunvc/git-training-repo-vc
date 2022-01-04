@@ -1,0 +1,2 @@
+This is file2.txt.
+It exists in branch1.
